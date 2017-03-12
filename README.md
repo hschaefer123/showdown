@@ -1,6 +1,6 @@
 # Showdown
 
-## [OpenUI5 Developer Blog](http://openui5.blogspot.com/2017/03/Showdown.html)
+## [OpenUI5 Developer Blog](http://openui5.blogspot.com/2017/03/showdown.html)
 
 > [UI5](http://openui5.org/) control to view [Markdown](https://en.wikipedia.org/wiki/Markdown) content inside your app using [Showdown](https://github.com/showdownjs/showdown) javascript library.
 
