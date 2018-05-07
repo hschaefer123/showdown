@@ -6,7 +6,7 @@
 
 ### [Online Demo (SAP HCP)](https://showdown-p1940953245trial.dispatcher.hanatrial.ondemand.com/index.html)
 
-![Screenshot](ui5.control.Showdown.png)
+![Screenshot](./ui5.control.Showdown.png)
 
 
 ## Initialize
